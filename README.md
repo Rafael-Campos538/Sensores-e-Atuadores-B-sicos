@@ -1,7 +1,6 @@
 # Ponderada de Programação
 
-## Link para o video: [https://drive.google.com/file/d/1Glu0VMJoAHf8UUe0F3EGorRK3EKyyjkv/view?usp=drive_link](https://drive.google.com/file/d/1Glu0VMJoAHf8UUe0F3EGorRK3EKyyjkv/view?usp=drive_link)
-# Simulando Carga de Capacitor e Descarga de Resistor
+## Simulando Carga de Capacitor e Descarga de Resistor
 
 Para a simulação da carga do capacitor e descarga do resistor, foi utilizado o software Tinkercad, uma plataforma online para montagem e teste de circuitos eletrônicos. O circuito conta com um interruptor, dois resistores (1 MΩ e 100 Ω), um capacitor de 10 µF / 25 V, um microcontrolador Arduino UNO e um protoboard.
 
@@ -10,6 +9,8 @@ Durante a simulação, o interruptor é acionado manualmente pela plataforma. Em
 Abaixo tem-se a imagem do circuito montado no Tinkercad:
 
 ![](arduino.png)
+
+Abaixo esta o link para o video do problema feito na mão: [https://drive.google.com/file/d/1Glu0VMJoAHf8UUe0F3EGorRK3EKyyjkv/view?usp=drive_link](https://drive.google.com/file/d/1Glu0VMJoAHf8UUe0F3EGorRK3EKyyjkv/view?usp=drive_link)
 
 Código utilizado na simulação:
 
