@@ -44,15 +44,14 @@ Alguns resultados Obtidos:
 ```
 
 Para facilitar a visualização dos dados coletados, foram gerados gráficos em Python utilizando os valores obtidos a partir do Monitor Serial.
-![](grafico_geral.png)
 
 Gráfico da Carga do Capacitor:
 
-![](grafico_laranja.png)
+![](grafico_azul.png)
 
 Gráfico da Descarga do Resistor:
 
-![](grafico_azul.png)
+![](grafico_laranja.png)
 
 Gráfico da comparação entre a Carga do Capacitor e a Descarga do Resistor:
 
