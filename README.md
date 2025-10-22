@@ -1,4 +1,4 @@
-### Ponderada de Programação
+# Ponderada de Programação
 
 ## Link para o video: [https://drive.google.com/file/d/1Glu0VMJoAHf8UUe0F3EGorRK3EKyyjkv/view?usp=drive_link](https://drive.google.com/file/d/1Glu0VMJoAHf8UUe0F3EGorRK3EKyyjkv/view?usp=drive_link)
 # Simulando Carga de Capacitor e Descarga de Resistor
